@@ -1,0 +1,5 @@
+C:\Users\ianmcadams\Documents\Visual Studio 2013\Projects\StringParserLibrary\StringParserLibrary\bin\Debug\StringParserLibrary.dll
+C:\Users\ianmcadams\Documents\Visual Studio 2013\Projects\StringParserLibrary\StringParserLibrary\bin\Debug\StringParserLibrary.pdb
+C:\Users\ianmcadams\Documents\Visual Studio 2013\Projects\StringParserLibrary\StringParserLibrary\obj\Debug\StringParserLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ianmcadams\Documents\Visual Studio 2013\Projects\StringParserLibrary\StringParserLibrary\obj\Debug\StringParserLibrary.dll
+C:\Users\ianmcadams\Documents\Visual Studio 2013\Projects\StringParserLibrary\StringParserLibrary\obj\Debug\StringParserLibrary.pdb
